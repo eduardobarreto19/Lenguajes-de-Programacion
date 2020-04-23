@@ -14,3 +14,8 @@ amigos  | telefonos
 ------------- | -------------
 juan | 3102154
 carlolsl  | 458464
+
+
+####Como imprimir en java
+
+`$ Systrem.out.print();`
